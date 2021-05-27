@@ -63,21 +63,21 @@
 
 **In terms of the previously mentioned variables, we started our journey to have some insights and answer some question that we have as :**
 
->-  `1-What are the top 5 movies That gained most profits, and How popular they were?` 
+-  `1-What are the top 5 movies That gained most profits, and How popular they were?` 
 
 
->- `2-What are the top 5 movies associated with biggest loss in money, and How popular they were?`
+- `2-What are the top 5 movies associated with biggest loss in money, and How popular they were?`
 
->- `3-What are the top 5 popular movies, and How their profits were ?` 
+- `3-What are the top 5 popular movies, and How their profits were ?` 
 
->- `4-Who are the top 5 directors associated with movies That were most popular?`
+- `4-Who are the top 5 directors associated with movies That were most popular?`
 
->- `5-What are the top 5 production companies that their movies gained the biggest overall profits?`
+- `5-What are the top 5 production companies that their movies gained the biggest overall profits?`
 
->- `6-What are the top 10 Genres associated with movies That gained most profits?`
+- `6-What are the top 10 Genres associated with movies That gained most profits?`
 
->- `7-What are the top 10 Genres associated with movies That were most popular?`
+- `7-What are the top 10 Genres associated with movies That were most popular?`
 
->- `8-Who are The top 5 Actors associated with movies That gained most profits, and How popular they were?`
+- `8-Who are The top 5 Actors associated with movies That gained most profits, and How popular they were?`
 
->- `9-Who are The top 5 Actors associated with movies That was most popular, and How their profits were?`
+- `9-Who are The top 5 Actors associated with movies That was most popular, and How their profits were?`
